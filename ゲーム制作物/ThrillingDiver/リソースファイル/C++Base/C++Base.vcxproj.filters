@@ -1,0 +1,279 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ソース ファイル">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="ヘッダー ファイル">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="リソース ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="===MAIN===">
+      <UniqueIdentifier>{df5cd12c-91af-4004-8fce-eef352432ae9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="===MANAGER===">
+      <UniqueIdentifier>{752306aa-2d86-4b06-a9ea-15f5e87bc54d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="===RENDERER===">
+      <UniqueIdentifier>{dbce2c92-b53d-4e5f-846d-6165243780e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="===OBJECT===">
+      <UniqueIdentifier>{052d30e6-58ae-4985-98d4-23ec877470b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="===INPUT===">
+      <UniqueIdentifier>{83e79ce2-3c62-47ed-bf6b-88707c582ab0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="===CAMERA===">
+      <UniqueIdentifier>{d41001c8-6365-45dd-bed0-f2559990b47e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="===LIGHT===">
+      <UniqueIdentifier>{425c40a6-828f-4e9d-9589-ee9ee31c6ea4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="===TEXTURE===">
+      <UniqueIdentifier>{a0c8d1ea-cc7a-4db6-8725-53fe08b2510d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="===SCENE===">
+      <UniqueIdentifier>{f74f2eef-471b-4ff2-a6bc-3449f68fafd3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="===PROCESS===">
+      <UniqueIdentifier>{5e47e687-549d-436a-aba6-9180d4c40da8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="===OBJECT===\===OBJECT2D===">
+      <UniqueIdentifier>{eaf88bff-8762-475a-be69-61a6d62e82ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="===OBJECT===\===OBJECT3D===">
+      <UniqueIdentifier>{23f7d03b-1447-4b7a-ac2b-ae7ddcd042d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="===BG===">
+      <UniqueIdentifier>{73cb769c-8d50-45a8-9434-3117322bb063}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="===OBJECT===\===OBJECT_X===">
+      <UniqueIdentifier>{b0eb4adc-2c11-49d7-b84d-27f157e37c12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="===PLAYER===">
+      <UniqueIdentifier>{1d4517e3-c41b-4c50-90ae-479ef1f74aeb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="===BLOCK===">
+      <UniqueIdentifier>{457ab1bc-53c1-4502-bc41-db80fbc208d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="===ENEMY===">
+      <UniqueIdentifier>{b2560221-9217-4485-a90c-50a4ca2a66cc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="D===DEBUGDRAW===">
+      <UniqueIdentifier>{3ae3821a-22e3-49a3-9c12-ed4a5645ae66}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="===TIME===">
+      <UniqueIdentifier>{7bf336e4-4cec-4000-b0c1-0708d21bbaa1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="===OBSTACLE===">
+      <UniqueIdentifier>{b81fa1f3-acce-407b-94e6-5b72fb8240b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="===UI===">
+      <UniqueIdentifier>{a4e57ff6-8729-4325-a12b-483772ac969a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="===UI===\===MARKER===">
+      <UniqueIdentifier>{17d3cf05-9f14-4ad2-a0c1-7d36468f2f4c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="===UI===\===DASHUI===">
+      <UniqueIdentifier>{1a486d36-1fd1-4c66-a1d9-aa39b6908751}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="===ITEM===">
+      <UniqueIdentifier>{af3fd608-aa1f-4a2a-97ff-9746a74610fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="===UI===\===ENEMYCOUT===">
+      <UniqueIdentifier>{3084a2a1-f138-4fb2-aa44-79a04dc5f3ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="===UI===\===STARTRESERVE===">
+      <UniqueIdentifier>{65a09c6e-7156-44a5-8b52-79e455dce6ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="===RANKING===">
+      <UniqueIdentifier>{d19a8a12-a1ed-44fb-9843-4d20aa6f97ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="===UI===\===ITEMUI===">
+      <UniqueIdentifier>{9656bc17-250d-42b0-816a-0c7ad00e34b3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>===MAIN===</Filter>
+    </ClInclude>
+    <ClInclude Include="manager.h">
+      <Filter>===MANAGER===</Filter>
+    </ClInclude>
+    <ClInclude Include="renderer.h">
+      <Filter>===RENDERER===</Filter>
+    </ClInclude>
+    <ClInclude Include="object.h">
+      <Filter>===OBJECT===</Filter>
+    </ClInclude>
+    <ClInclude Include="input.h">
+      <Filter>===INPUT===</Filter>
+    </ClInclude>
+    <ClInclude Include="camera.h">
+      <Filter>===CAMERA===</Filter>
+    </ClInclude>
+    <ClInclude Include="light.h">
+      <Filter>===LIGHT===</Filter>
+    </ClInclude>
+    <ClInclude Include="texture.h">
+      <Filter>===TEXTURE===</Filter>
+    </ClInclude>
+    <ClInclude Include="scene.h">
+      <Filter>===SCENE===</Filter>
+    </ClInclude>
+    <ClInclude Include="process.h">
+      <Filter>===PROCESS===</Filter>
+    </ClInclude>
+    <ClInclude Include="object2D.h">
+      <Filter>===OBJECT===\===OBJECT2D===</Filter>
+    </ClInclude>
+    <ClInclude Include="BG.h">
+      <Filter>===BG===</Filter>
+    </ClInclude>
+    <ClInclude Include="object3D.h">
+      <Filter>===OBJECT===\===OBJECT3D===</Filter>
+    </ClInclude>
+    <ClInclude Include="objectX.h">
+      <Filter>===OBJECT===\===OBJECT_X===</Filter>
+    </ClInclude>
+    <ClInclude Include="player.h">
+      <Filter>===PLAYER===</Filter>
+    </ClInclude>
+    <ClInclude Include="block.h">
+      <Filter>===BLOCK===</Filter>
+    </ClInclude>
+    <ClInclude Include="enemy.h">
+      <Filter>===ENEMY===</Filter>
+    </ClInclude>
+    <ClInclude Include="debugdraw.h">
+      <Filter>D===DEBUGDRAW===</Filter>
+    </ClInclude>
+    <ClInclude Include="enmcreate.h">
+      <Filter>===ENEMY===</Filter>
+    </ClInclude>
+    <ClInclude Include="timemanager.h">
+      <Filter>===TIME===</Filter>
+    </ClInclude>
+    <ClInclude Include="time.h">
+      <Filter>===TIME===</Filter>
+    </ClInclude>
+    <ClInclude Include="obstacle.h">
+      <Filter>===OBSTACLE===</Filter>
+    </ClInclude>
+    <ClInclude Include="dirmarker.h">
+      <Filter>===UI===\===MARKER===</Filter>
+    </ClInclude>
+    <ClInclude Include="dashgauge.h">
+      <Filter>===UI===\===DASHUI===</Filter>
+    </ClInclude>
+    <ClInclude Include="item.h">
+      <Filter>===ITEM===</Filter>
+    </ClInclude>
+    <ClInclude Include="enemycount.h">
+      <Filter>===UI===\===ENEMYCOUT===</Filter>
+    </ClInclude>
+    <ClInclude Include="startreserve.h">
+      <Filter>===UI===\===STARTRESERVE===</Filter>
+    </ClInclude>
+    <ClInclude Include="ranking.h">
+      <Filter>===RANKING===</Filter>
+    </ClInclude>
+    <ClInclude Include="itemgauge.h">
+      <Filter>===UI===\===ITEMUI===</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>===MAIN===</Filter>
+    </ClCompile>
+    <ClCompile Include="manager.cpp">
+      <Filter>===MANAGER===</Filter>
+    </ClCompile>
+    <ClCompile Include="renderer.cpp">
+      <Filter>===RENDERER===</Filter>
+    </ClCompile>
+    <ClCompile Include="object.cpp">
+      <Filter>===OBJECT===</Filter>
+    </ClCompile>
+    <ClCompile Include="input.cpp">
+      <Filter>===INPUT===</Filter>
+    </ClCompile>
+    <ClCompile Include="camera.cpp">
+      <Filter>===CAMERA===</Filter>
+    </ClCompile>
+    <ClCompile Include="light.cpp">
+      <Filter>===LIGHT===</Filter>
+    </ClCompile>
+    <ClCompile Include="texture.cpp">
+      <Filter>===TEXTURE===</Filter>
+    </ClCompile>
+    <ClCompile Include="scene.cpp">
+      <Filter>===SCENE===</Filter>
+    </ClCompile>
+    <ClCompile Include="process.cpp">
+      <Filter>===PROCESS===</Filter>
+    </ClCompile>
+    <ClCompile Include="object2D.cpp">
+      <Filter>===OBJECT===\===OBJECT2D===</Filter>
+    </ClCompile>
+    <ClCompile Include="BG.cpp">
+      <Filter>===BG===</Filter>
+    </ClCompile>
+    <ClCompile Include="object3D.cpp">
+      <Filter>===OBJECT===\===OBJECT3D===</Filter>
+    </ClCompile>
+    <ClCompile Include="objectX.cpp">
+      <Filter>===OBJECT===\===OBJECT_X===</Filter>
+    </ClCompile>
+    <ClCompile Include="player.cpp">
+      <Filter>===PLAYER===</Filter>
+    </ClCompile>
+    <ClCompile Include="block.cpp">
+      <Filter>===BLOCK===</Filter>
+    </ClCompile>
+    <ClCompile Include="enemy.cpp">
+      <Filter>===ENEMY===</Filter>
+    </ClCompile>
+    <ClCompile Include="debugdraw.cpp">
+      <Filter>D===DEBUGDRAW===</Filter>
+    </ClCompile>
+    <ClCompile Include="enmcreate.cpp">
+      <Filter>===ENEMY===</Filter>
+    </ClCompile>
+    <ClCompile Include="timemanager.cpp">
+      <Filter>===TIME===</Filter>
+    </ClCompile>
+    <ClCompile Include="time.cpp">
+      <Filter>===TIME===</Filter>
+    </ClCompile>
+    <ClCompile Include="obstacle.cpp">
+      <Filter>===OBSTACLE===</Filter>
+    </ClCompile>
+    <ClCompile Include="dirmarker.cpp">
+      <Filter>===UI===\===MARKER===</Filter>
+    </ClCompile>
+    <ClCompile Include="dashgauge.cpp">
+      <Filter>===UI===\===DASHUI===</Filter>
+    </ClCompile>
+    <ClCompile Include="item.cpp">
+      <Filter>===ITEM===</Filter>
+    </ClCompile>
+    <ClCompile Include="enemycount.cpp">
+      <Filter>===UI===\===ENEMYCOUT===</Filter>
+    </ClCompile>
+    <ClCompile Include="startreserve.cpp">
+      <Filter>===UI===\===STARTRESERVE===</Filter>
+    </ClCompile>
+    <ClCompile Include="ranking.cpp">
+      <Filter>===RANKING===</Filter>
+    </ClCompile>
+    <ClCompile Include="itemgauge.cpp">
+      <Filter>===UI===\===ITEMUI===</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
