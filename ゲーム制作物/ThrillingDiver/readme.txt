@@ -30,19 +30,19 @@
 
 CyberCreaters2026_MoriItsuki
 ┃
-┣.git
+┣ .git
 ┃
-┣企画書
+┣ 企画書
 ┃
-┣README.md
+┣ README.md
 ┃
-┗ゲーム制作物
+┗ ゲーム制作物
   ┃
-  ┗ThrillingDiver
+  ┗ ThrillingDiver
     ┃
-    ┣リソースファイル(コード内容.slnなど)
+    ┣ リソースファイル(コード内容.slnなど)
     ┃
-    ┗実行ファイル
+    ┗ 実行ファイル
       ┃
       ┣ data
       ┃
